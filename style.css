@@ -38,6 +38,10 @@
         text-decoration: none;
     }
     
+    .container a {
+        color: pink;
+    }
+    
     .container a:hover {
         background-color: rgb(70, 66, 66);
         color: pink;
